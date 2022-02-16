@@ -11,7 +11,7 @@
     "modules": [
       {
         "type": "template",
-        "path": "basic-role-template"
+        "path": "basic-pod-template"
       }
     ]
   }
