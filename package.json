@@ -1,14 +1,17 @@
 {
-  "name": "Template plugins",
-  "description": "Custom templates plugin",
-  "version": "1.0.0",
+  "name": "Templates plugin",
   "author": "Abdallah",
+  "version": "1.0.0",
+  "description": "Custom templates plugin",
+  "license": "MIT",
   "repository": "https://github.com/aabedraba/monokle-templates-plugin",
   "monoklePlugin": {
+    "id": "io.aabedraba.plugins.templates",
+    "helpUrl": "https://github.com/aabedraba/monokle-templates-plugin",
     "modules": [
       {
         "type": "template",
-        "path": "basic-pod-template"
+        "path": "basic-role-template"
       }
     ]
   }
