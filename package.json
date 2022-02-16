@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": "https://github.com/aabedraba/monokle-templates-plugin",
   "monoklePlugin": {
-    "id": "io.aabedraba.plugins.templates",
+    "id": "com.aabedraba.plugins.templates",
     "helpUrl": "https://github.com/aabedraba/monokle-templates-plugin",
     "modules": [
       {
