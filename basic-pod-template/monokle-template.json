@@ -8,7 +8,7 @@
   "type": "vanilla",
   "forms": [
     {
-      "names": "Pod Settings",
+      "name": "Pod Settings",
       "description": "Specify the settings for your Pod",
       "schema": "form-schema.json",
       "uiSchema": "form-ui-schema.json"
