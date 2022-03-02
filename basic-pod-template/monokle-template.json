@@ -6,14 +6,12 @@
   "description": "Creates a Pod for a specified Image",
   "repository": "",
   "type": "vanilla",
-  "forms": [
-    {
+  "forms": {
       "name": "Pod Settings",
       "description": "Specify the settings for your Pod",
       "schema": "form-schema.json",
       "uiSchema": "form-ui-schema.json"
-    }
-  ],
+   },
   "manifests": [
     {
       "filePath": "template.yaml"
