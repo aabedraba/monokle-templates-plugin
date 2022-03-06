@@ -1,7 +1,7 @@
 {
   "name": "Templates plugin",
   "author": "Abdallah",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Custom templates plugin",
   "license": "MIT",
   "repository": "https://github.com/aabedraba/monokle-templates-plugin",
